@@ -1,0 +1,57 @@
+# Root node
+#
+,ROOT
+#
+# Nouns
+#
+Corneli, 	N, 	F, 	1,	,	Cornelia
+puell, 		N, 	F, 	1,	,	Cornelia
+port, 		N, 	F, 	1,	,	gate
+sax, 		N, 	N,	2n,	,	rock
+bacul, 		N, 	N, 	2n,	,	stick
+pu, 		N, 	M, 	2er,,	boy
+canis.can, 	N, 	M, 	3,	,	dog
+arbor.arbor,N,	F,	3,	,	tree
+nomen.nomin,N,	N,	3n,	,	name
+#
+# Adjectives
+#
+bon,		A,	1,	,		good
+mal,		A,	1,	,		bad
+pulch,		A,	2r,	,		handsome
+ac,			A,	3r,	,		sharp
+audax.audac,A,	3t,	,		bold
+#
+# Verbs
+#
+,		V,	0.fu.fut,		COP.INT.IRR,be.be.been.been.being
+sed,	V,	2.sed.sess,		INT,sit.sits.sat.sat.sitting
+hab,	V,	2.habu.habit,	,have.has.had.had.having
+vid,	V,	2.vid.vis,		,see.sees.saw.seen.seeing
+lic, 	V, 	2.licu.licut,	IMP.DAT.INF.INT,	allowed
+curr, 	V, 	3.cucurr.curs,	INT,run.runs.ran.X.running
+put,	V,	1.putav.putat,	ISC.INT,think.thinks.thought.thought.thinking
+aud,	V,	4.audiv.audit,	,hear.hears.heard.heard.hearing
+d,		V,	1.ded.dat,		DAT,give.give.gave,given,giving
+dic,	V,	3.dix.dict,		ISC.INT.DAT,say.says.said.said.saying
+iub,	V,	2.iuss.iuss,	INF,order.orders.ordered.ordered
+#
+# Adverbs
+#
+tacite,		D,	V, 	silently
+celeriter,	D,	V, quickly
+#
+# Prepositions
+#
+sub,		P,	B.ADV.ADJ,	under
+in,			P,	B.ADV.ADJ,	in
+propter,	P,	A.ADV,	because of
+a(b),		P,	B,	from
+#
+# Conjunctions
+#
+ut,			C,	SUB,	as/so that
+#
+# Pronouns
+#
+,			R,	REL,	that/which

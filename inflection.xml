@@ -1,0 +1,1019 @@
+<?xml version="1.0"?>
+<data>
+<ROOT><pattern></pattern></ROOT>
+<C><pattern></pattern></C>
+<P><pattern></pattern></P>
+<D><pattern></pattern></D>
+
+<V>
+	<pattern0>
+		<PRS>	<ACT><INF>esse</INF></ACT>	</PRS>
+		<PRF>	<ACT><INF>isse</INF></ACT>	</PRF>
+		<FIR>
+			<S>
+				<PRS>
+					<ACT>	<IND>sum</IND>	<SUB>sim</SUB> </ACT>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>eram</IND>	<SUB>essem</SUB>	</ACT>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>er0</IND>	</ACT>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>i</IND>	<SUB>erim</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>eram</IND>	<SUB>issem</SUB></ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>ero</IND>	</ACT>
+				</FPF>
+			</S>
+			<P>
+				<PRS>
+					<ACT>	<IND>sumus</IND><SUB>simus</SUB>	</ACT>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>eramus</IND>	<SUB>essemus</SUB>	</ACT>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>erimus</IND>	</ACT>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>imus</IND>	<SUB>erimus</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>eramus</IND>	<SUB>issemus</SUB>	</ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>erimus</IND>	</ACT>
+				</FPF>
+			</P>
+		</FIR>
+		<SEC>
+			<S>
+				<PRS>
+					<ACT>	<IND>es</IND>	<SUB>sis</SUB>	<IMP>es</IMP> </ACT>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>eras</IND>	<SUB>esses</SUB>	</ACT>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>eris</IND>	<IMP>esto</IMP> </ACT>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>isti</IND>	<SUB>eris</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>eras</IND>	<SUB>isses</SUB>	</ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>eris</IND>	</ACT>
+				</FPF>
+			</S>
+			<P>
+				<PRS>
+					<ACT>	<IND>estis</IND>	<SUB>sitis</SUB>	<IMP>este</IMP> </ACT>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>eratis</IND>	<SUB>essetis</SUB>	</ACT>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>eritis</IND>	<IMP>estote</IMP> </ACT>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>istis</IND>	<SUB>eritis</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>eratis</IND>	<SUB>issetis</SUB>	</ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>eritis</IND>	</ACT>
+				</FPF>
+			</P>
+		</SEC>
+		<THR>
+			<S>
+				<PRS>
+					<ACT>	<IND>est</IND>	<SUB>sit</SUB>	</ACT>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>erat</IND>	<SUB>esset</SUB></ACT>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>erit</IND>	<IMP>esto</IMP> </ACT>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>it</IND>	<SUB>erit</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>erat</IND>	<SUB>isset</SUB> </ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>erit</IND>	</ACT>
+				</FPF>
+			</S>
+			<P>
+				<PRS>
+					<ACT>	<IND>sunt</IND>		<SUB>sint</SUB>	</ACT>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>erant</IND>	<SUB>essent</SUB>	</ACT>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>erunt</IND>	<IMP>sunto</IMP> </ACT>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>erunt</IND>	<SUB>erint</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>erant</IND>	<SUB>issent</SUB> </ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>erint</IND>	</ACT>
+				</FPF>
+			</P>
+		</THR>
+	</pattern0>
+	<pattern1>
+		<PP>a</PP>
+		<PRS>	<ACT><INF>are</INF></ACT>	<PAS><INF>ari</INF></PAS>	</PRS>
+		<PRF>	<ACT><INF>isse</INF></ACT>	</PRF>
+		<FIR>
+			<S>
+				<PRS>
+					<ACT>	<IND>o</IND>	<SUB>em</SUB> </ACT>
+					<PAS>	<IND>or</IND>	<SUB>er</SUB> </PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>abam</IND>	<SUB>arem</SUB>	</ACT>
+					<PAS>	<IND>abar</IND>	<SUB>arer</SUB>	</PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>abo</IND>	</ACT>
+					<PAS>	<IND>abor</IND>	</PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>i</IND>	<SUB>erim</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>eram</IND>	<SUB>issem</SUB></ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>ero</IND>	</ACT>
+				</FPF>
+			</S>
+			<P>
+				<PRS>
+					<ACT>	<IND>amus</IND>	<SUB>emus</SUB>	</ACT>
+					<PAS>	<IND>amur</IND>	<SUB>emur</SUB>	</PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>abamus</IND>	<SUB>aremus</SUB>	</ACT>
+					<PAS>	<IND>abamur</IND>	<SUB>aremur</SUB>	</PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>abimus</IND>	</ACT>
+					<PAS>	<IND>abimur</IND>	</PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>imus</IND>	<SUB>erimus</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>eramus</IND>	<SUB>issemus</SUB>	</ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>erimus</IND>	</ACT>
+				</FPF>
+			</P>
+		</FIR>
+		<SEC>
+			<S>
+				<PRS>
+					<ACT>	<IND>as</IND>	<SUB>es</SUB>	<IMP>a</IMP> </ACT>
+					<PAS>	<IND>aris</IND>	<SUB>eris</SUB>	<IMP>are</IMP> </PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>abas</IND>		<SUB>ares</SUB>		</ACT>
+					<PAS>	<IND>abaris</IND>	<SUB>areris</SUB>	</PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>abis</IND>		<IMP>ato</IMP> </ACT>
+					<PAS>	<IND>aberis</IND>	<IMP>ator</IMP> </PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>isti</IND>	<SUB>eris</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>eras</IND>	<SUB>isses</SUB>	</ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>eris</IND>	</ACT>
+				</FPF>
+			</S>
+			<P>
+				<PRS>
+					<ACT>	<IND>atis</IND>		<SUB>etis</SUB>	<IMP>ate</IMP> </ACT>
+					<PAS>	<IND>amini</IND>	<SUB>emini</SUB><IMP>amini</IMP> </PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>abatis</IND>	<SUB>aretis</SUB>	</ACT>
+					<PAS>	<IND>abamini</IND>	<SUB>aremini</SUB>	</PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>abitis</IND>	<IMP>atote</IMP> </ACT>
+					<PAS>	<IND>abimini</IND>	</PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>istis</IND>	<SUB>eritis</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>eratis</IND>	<SUB>issetis</SUB>	</ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>eritis</IND>	</ACT>
+				</FPF>
+			</P>
+		</SEC>
+		<THR>
+			<S>
+				<PRS>
+					<ACT>	<IND>at</IND>	<SUB>et</SUB>	</ACT>
+					<PAS>	<IND>atur</IND>	<SUB>etur</SUB>	</PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>abat</IND>		<SUB>aret</SUB>	</ACT>
+					<PAS>	<IND>abatur</IND>	<SUB>aretur</SUB>	</PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>abit</IND>		<IMP>ato</IMP> </ACT>
+					<PAS>	<IND>abitur</IND>	<IMP>ator</IMP> </PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>it</IND>	<SUB>erit</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>erat</IND>	<SUB>isset</SUB> </ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>erit</IND>	</ACT>
+				</FPF>
+			</S>
+			<P>
+				<PRS>
+					<ACT>	<IND>ant</IND>		<SUB>ent</SUB>	</ACT>
+					<PAS>	<IND>antur</IND>	<SUB>entur</SUB>	</PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>abant</IND>	<SUB>arent</SUB>	</ACT>
+					<PAS>	<IND>abantur</IND>	<SUB>arentur</SUB>	</PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>abunt</IND>	<IMP>anto</IMP> </ACT>
+					<PAS>	<IND>abuntur</IND>	<IMP>antor</IMP> </PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>erunt</IND>	<SUB>erint</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>erant</IND>	<SUB>issent</SUB> </ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>erint</IND>	</ACT>
+				</FPF>
+			</P>
+		</THR>
+	</pattern1>
+	<pattern2>
+		<PP>e</PP>
+		<PRS>	<ACT><INF>ere</INF></ACT>	<PAS><INF>eri</INF></PAS>	</PRS>
+		<PRF>	<ACT><INF>isse</INF></ACT>	</PRF>
+		<FIR>
+			<S>
+				<PRS>
+					<ACT>	<IND>eo</IND>	<SUB>eam</SUB> </ACT>
+					<PAS>	<IND>eor</IND>	<SUB>ear</SUB> </PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>ebam</IND>	<SUB>erem</SUB>	</ACT>
+					<PAS>	<IND>ebar</IND>	<SUB>erer</SUB>	</PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>ebo</IND>	</ACT>
+					<PAS>	<IND>ebor</IND>	</PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>i</IND>	<SUB>erim</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>eram</IND>	<SUB>issem</SUB></ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>ero</IND>	</ACT>
+				</FPF>
+			</S>
+			<P>
+				<PRS>
+					<ACT>	<IND>emus</IND>	<SUB>eamus</SUB>	</ACT>
+					<PAS>	<IND>emur</IND>	<SUB>eamur</SUB>	</PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>ebamus</IND>	<SUB>eremus</SUB>	</ACT>
+					<PAS>	<IND>ebamur</IND>	<SUB>eremur</SUB>	</PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>ebimus</IND>	</ACT>
+					<PAS>	<IND>ebimur</IND>	</PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>imus</IND>	<SUB>erimus</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>eramus</IND>	<SUB>issemus</SUB>	</ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>erimus</IND>	</ACT>
+				</FPF>
+			</P>
+		</FIR>
+		<SEC>
+			<S>
+				<PRS>
+					<ACT>	<IND>es</IND>	<SUB>eas</SUB>	<IMP>e</IMP> 	</ACT>
+					<PAS>	<IND>eris</IND>	<SUB>earis</SUB><IMP>ere</IMP> 	</PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>ebas</IND>		<SUB>eres</SUB>		</ACT>
+					<PAS>	<IND>ebaris</IND>	<SUB>ereris</SUB>	</PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>ebis</IND>		<IMP>eto</IMP>	</ACT>
+					<PAS>	<IND>eberis</IND>	<IMP>etor</IMP>	</PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>isti</IND>	<SUB>eris</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>eras</IND>	<SUB>isses</SUB>	</ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>eris</IND>	</ACT>
+				</FPF>
+			</S>
+			<P>
+				<PRS>
+					<ACT>	<IND>etis</IND>		<SUB>eatis</SUB>	<IMP>ete</IMP>	</ACT>
+					<PAS>	<IND>emini</IND>	<SUB>eamini</SUB>	<IMP>emini</IMP></PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>ebatis</IND>	<SUB>eretis</SUB>	</ACT>
+					<PAS>	<IND>ebamini</IND>	<SUB>eremini</SUB></PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>ebitis</IND>	<IMP>etote</IMP>	</ACT>
+					<PAS>	<IND>ebimini</IND>	</PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>istis</IND>	<SUB>eritis</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>eratis</IND>	<SUB>issetis</SUB>	</ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>eritis</IND>	</ACT>
+				</FPF>
+			</P>
+		</SEC>
+		<THR>
+			<S>
+				<PRS>
+					<ACT>	<IND>et</IND>	<SUB>eat</SUB>	</ACT>
+					<PAS>	<IND>etur</IND>	<SUB>eatur</SUB>	</PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>ebat</IND>		<SUB>eret</SUB>	</ACT>
+					<PAS>	<IND>ebatur</IND>	<SUB>eretur</SUB>	</PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>ebit</IND>		<IMP>eto</IMP>	</ACT>
+					<PAS>	<IND>ebitur</IND>	<IMP>etor</IMP>	</PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>it</IND>	<SUB>erit</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>erat</IND>	<SUB>isset</SUB> </ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>erit</IND>	</ACT>
+				</FPF>
+			</S>
+			<P>
+				<PRS>
+					<ACT>	<IND>ent</IND>		<SUB>eant</SUB>	</ACT>
+					<PAS>	<IND>entur</IND>	<SUB>eantur</SUB>	</PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>ebant</IND>	<SUB>erent</SUB>	</ACT>
+					<PAS>	<IND>ebantur</IND>	<SUB>erentur</SUB>	</PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>ebunt</IND>	<IMP>ento</IMP>	</ACT>
+					<PAS>	<IND>ebuntur</IND>	<IMP>entor</IMP></PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>erunt</IND><SUB>erint</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>erant</IND><SUB>issent</SUB> </ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>erint</IND>	</ACT>
+				</FPF>
+			</P>
+		</THR>
+	</pattern2>
+	<pattern3>
+		<PP>e</PP>
+		<PRS>	<ACT><INF>ere</INF></ACT>	<PAS><INF>i</INF></PAS>	</PRS>
+		<PRF>	<ACT><INF>isse</INF></ACT>	</PRF>
+		<FIR>
+			<S>
+				<PRS>
+					<ACT>	<IND>o</IND>	<SUB>am</SUB> </ACT>
+					<PAS>	<IND>or</IND>	<SUB>ar</SUB> </PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>ebam</IND>	<SUB>erem</SUB>	</ACT>
+					<PAS>	<IND>ebar</IND>	<SUB>erer</SUB>	</PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>am</IND>	</ACT>
+					<PAS>	<IND>ar</IND>	</PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>i</IND>	<SUB>erim</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>eram</IND>	<SUB>issem</SUB></ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>ero</IND>	</ACT>
+				</FPF>
+			</S>
+			<P>
+				<PRS>
+					<ACT>	<IND>imus</IND>	<SUB>amus</SUB>	</ACT>
+					<PAS>	<IND>imur</IND>	<SUB>amur</SUB>	</PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>ebamus</IND>	<SUB>eremus</SUB>	</ACT>
+					<PAS>	<IND>ebamur</IND>	<SUB>eremur</SUB>	</PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>emus</IND>	</ACT>
+					<PAS>	<IND>emur</IND>	</PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>imus</IND>	<SUB>erimus</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>eramus</IND>	<SUB>issemus</SUB>	</ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>erimus</IND>	</ACT>
+				</FPF>
+			</P>
+		</FIR>
+		<SEC>
+			<S>
+				<PRS>
+					<ACT>	<IND>is</IND>	<SUB>as</SUB>	<IMP>e</IMP>	</ACT>
+					<PAS>	<IND>eris</IND>	<SUB>aris</SUB>	<IMP>ere</IMP>	</PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>ebas</IND>		<SUB>eres</SUB>		</ACT>
+					<PAS>	<IND>ebaris</IND>	<SUB>ereris</SUB>	</PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>es</IND>	<IMP>ito</IMP>	</ACT>
+					<PAS>	<IND>eris</IND>	<IMP>itor</IMP>	</PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>isti</IND>	<SUB>eris</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>eras</IND>	<SUB>isses</SUB></ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>eris</IND>	</ACT>
+				</FPF>
+			</S>
+			<P>
+				<PRS>
+					<ACT>	<IND>itis</IND>		<SUB>atis</SUB>	<IMP>ite</IMP>	</ACT>
+					<PAS>	<IND>imini</IND>	<SUB>amini</SUB><IMP>imini</IMP></PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>ebatis</IND>	<SUB>eretis</SUB>	</ACT>
+					<PAS>	<IND>ebamini</IND>	<SUB>eremini</SUB></PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>etis</IND>		<IMP>itote</IMP></ACT>
+					<PAS>	<IND>emini</IND>	</PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>istis</IND>	<SUB>eritis</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>eratis</IND>	<SUB>issetis</SUB>	</ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>eritis</IND>	</ACT>
+				</FPF>
+			</P>
+		</SEC>
+		<THR>
+			<S>
+				<PRS>
+					<ACT>	<IND>it</IND>	<SUB>at</SUB>	</ACT>
+					<PAS>	<IND>itur</IND>	<SUB>atur</SUB>	</PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>ebat</IND>		<SUB>eret</SUB>	</ACT>
+					<PAS>	<IND>ebatur</IND>	<SUB>eretur</SUB>	</PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>et</IND>	<IMP>ito</IMP>	</ACT>
+					<PAS>	<IND>etur</IND>	<IMP>itor</IMP>	</PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>it</IND>	<SUB>erit</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>erat</IND>	<SUB>isset</SUB> </ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>erit</IND>	</ACT>
+				</FPF>
+			</S>
+			<P>
+				<PRS>
+					<ACT>	<IND>unt</IND>		<SUB>ant</SUB>	</ACT>
+					<PAS>	<IND>untur</IND>	<SUB>antur</SUB>	</PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>ebant</IND>	<SUB>erent</SUB>	</ACT>
+					<PAS>	<IND>ebantur</IND>	<SUB>erentur</SUB>	</PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>ent</IND>		<IMP>unto</IMP>	</ACT>
+					<PAS>	<IND>entur</IND>	<IMP>untor</IMP></PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>erunt</IND><SUB>erint</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>erant</IND><SUB>issent</SUB> </ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>erint</IND>	</ACT>
+				</FPF>
+			</P>
+		</THR>
+	</pattern3>
+	<pattern3i>
+		<PP>ie</PP>
+		<PRS>	<ACT><INF>ere</INF></ACT>	<PAS><INF>i</INF></PAS>	</PRS>
+		<PRF>	<ACT><INF>isse</INF></ACT>	</PRF>
+		<FIR>
+			<S>
+				<PRS>
+					<ACT>	<IND>io</IND>	<SUB>iam</SUB> </ACT>
+					<PAS>	<IND>ior</IND>	<SUB>iar</SUB> </PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>iebam</IND>	<SUB>erem</SUB>	</ACT>
+					<PAS>	<IND>iebar</IND>	<SUB>erer</SUB>	</PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>iam</IND>	</ACT>
+					<PAS>	<IND>iar</IND>	</PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>i</IND>	<SUB>erim</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>eram</IND>	<SUB>issem</SUB></ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>ero</IND>	</ACT>
+				</FPF>
+			</S>
+			<P>
+				<PRS>
+					<ACT>	<IND>imus</IND>	<SUB>iamus</SUB>	</ACT>
+					<PAS>	<IND>imur</IND>	<SUB>iamur</SUB>	</PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>iebamus</IND>	<SUB>eremus</SUB>	</ACT>
+					<PAS>	<IND>iebamur</IND>	<SUB>eremur</SUB>	</PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>iemus</IND>	</ACT>
+					<PAS>	<IND>iemur</IND>	</PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>imus</IND>	<SUB>erimus</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>eramus</IND>	<SUB>issemus</SUB>	</ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>erimus</IND>	</ACT>
+				</FPF>
+			</P>
+		</FIR>
+		<SEC>
+			<S>
+				<PRS>
+					<ACT>	<IND>is</IND>	<SUB>ias</SUB>	<IMP>e</IMP>	</ACT>
+					<PAS>	<IND>eris</IND>	<SUB>iaris</SUB><IMP>ere</IMP>	</PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>iebas</IND>	<SUB>eres</SUB>		</ACT>
+					<PAS>	<IND>iebaris</IND>	<SUB>ereris</SUB>	</PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>ies</IND>		<IMP>ito</IMP>	</ACT>
+					<PAS>	<IND>ieris</IND>	<IMP>itor</IMP>	</PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>isti</IND>	<SUB>eris</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>eras</IND>	<SUB>isses</SUB>	</ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>eris</IND>	</ACT>
+				</FPF>
+			</S>
+			<P>
+				<PRS>
+					<ACT>	<IND>itis</IND>		<SUB>iatis</SUB>	<IMP>ite</IMP>	</ACT>
+					<PAS>	<IND>imini</IND>	<SUB>iamini</SUB>	<IMP>imini</IMP></PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>iebatis</IND>	<SUB>eretis</SUB>	</ACT>
+					<PAS>	<IND>iebamini</IND>	<SUB>eremini</SUB>	</PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>ietis</IND>	<IMP>itote</IMP>	</ACT>
+					<PAS>	<IND>iemini</IND>	</PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>istis</IND>	<SUB>eritis</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>eratis</IND>	<SUB>issetis</SUB>	</ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>eritis</IND>	</ACT>
+				</FPF>
+			</P>
+		</SEC>
+		<THR>
+			<S>
+				<PRS>
+					<ACT>	<IND>it</IND>	<SUB>iat</SUB>	</ACT>
+					<PAS>	<IND>itur</IND>	<SUB>iatur</SUB>	</PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>iebat</IND>	<SUB>eret</SUB>	</ACT>
+					<PAS>	<IND>iebatur</IND>	<SUB>eretur</SUB>	</PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>iet</IND>		<IMP>ito</IMP>	</ACT>
+					<PAS>	<IND>ietur</IND>	<IMP>itor</IMP>	</PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>it</IND>	<SUB>erit</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>erat</IND>	<SUB>isset</SUB> </ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>erit</IND>	</ACT>
+				</FPF>
+			</S>
+			<P>
+				<PRS>
+					<ACT>	<IND>iunt</IND>		<SUB>iant</SUB>	</ACT>
+					<PAS>	<IND>iuntur</IND>	<SUB>iantur</SUB>	</PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>iebant</IND>	<SUB>erent</SUB>	</ACT>
+					<PAS>	<IND>iebantur</IND>	<SUB>erentur</SUB>	</PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>ient</IND>		<IMP>iunto</IMP>	</ACT>
+					<PAS>	<IND>ientur</IND>	<IMP>iuntor</IMP>	</PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>erunt</IND><SUB>erint</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>erant</IND><SUB>issent</SUB> </ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>erint</IND>	</ACT>
+				</FPF>
+			</P>
+		</THR>
+	</pattern3i>
+	<pattern4>
+		<PP>ie</PP>
+		<PRS>	<ACT><INF>ire</INF></ACT>	<PAS><INF>iri</INF></PAS>	</PRS>
+		<PRF>	<ACT><INF>isse</INF></ACT>	</PRF>
+		<FIR>
+			<S>
+				<PRS>
+					<ACT>	<IND>io</IND>	<SUB>iam</SUB> </ACT>
+					<PAS>	<IND>ior</IND>	<SUB>iar</SUB> </PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>iebam</IND>	<SUB>irem</SUB>	</ACT>
+					<PAS>	<IND>iebar</IND>	<SUB>irer</SUB>	</PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>iam</IND>	</ACT>
+					<PAS>	<IND>iar</IND>	</PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>i</IND>	<SUB>erim</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>eram</IND>	<SUB>issem</SUB></ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>ero</IND>	</ACT>
+				</FPF>
+			</S>
+			<P>
+				<PRS>
+					<ACT>	<IND>imus</IND>	<SUB>iamus</SUB>	</ACT>
+					<PAS>	<IND>imur</IND>	<SUB>iamur</SUB>	</PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>iebamus</IND>	<SUB>iremus</SUB>	</ACT>
+					<PAS>	<IND>iebamur</IND>	<SUB>iremur</SUB>	</PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>iemus</IND>	</ACT>
+					<PAS>	<IND>iemur</IND>	</PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>imus</IND>	<SUB>erimus</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>eramus</IND>	<SUB>issemus</SUB>	</ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>erimus</IND>	</ACT>
+				</FPF>
+			</P>
+		</FIR>
+		<SEC>
+			<S>
+				<PRS>
+					<ACT>	<IND>is</IND>	<SUB>ias</SUB>	<IMP>i</IMP>	</ACT>
+					<PAS>	<IND>iris</IND>	<SUB>iaris</SUB><IMP>ire</IMP>	</PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>iebas</IND>	<SUB>ires</SUB>		</ACT>
+					<PAS>	<IND>iebaris</IND>	<SUB>ireris</SUB>	</PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>ies</IND>		<IMP>ito</IMP>	</ACT>
+					<PAS>	<IND>ieris</IND>	<IMP>itor</IMP>	</PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>isti</IND>	<SUB>eris</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>eras</IND>	<SUB>isses</SUB>	</ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>eris</IND>	</ACT>
+				</FPF>
+			</S>
+			<P>
+				<PRS>
+					<ACT>	<IND>itis</IND>		<SUB>iatis</SUB>	<IMP>ite</IMP>	</ACT>
+					<PAS>	<IND>imini</IND>	<SUB>iamini</SUB>	<IMP>imini</IMP></PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>iebatis</IND>	<SUB>iretis</SUB>	</ACT>
+					<PAS>	<IND>iebamini</IND>	<SUB>iremini</SUB></PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>ietis</IND>	<IMP>itote</IMP>	</ACT>
+					<PAS>	<IND>iemini</IND>	</PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>istis</IND>	<SUB>eritis</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>eratis</IND>	<SUB>issetis</SUB>	</ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>eritis</IND>	</ACT>
+				</FPF>
+			</P>
+		</SEC>
+		<THR>
+			<S>
+				<PRS>
+					<ACT>	<IND>it</IND>	<SUB>iat</SUB>	</ACT>
+					<PAS>	<IND>itur</IND>	<SUB>iatur</SUB>	</PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>iebat</IND>	<SUB>iret</SUB>	</ACT>
+					<PAS>	<IND>iebatur</IND>	<SUB>iretur</SUB>	</PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>iet</IND>		<IMP>ito</IMP>	</ACT>
+					<PAS>	<IND>ietur</IND>	<IMP>itor</IMP>	</PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>it</IND>	<SUB>erit</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>erat</IND>	<SUB>isset</SUB> </ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>erit</IND>	</ACT>
+				</FPF>
+			</S>
+			<P>
+				<PRS>
+					<ACT>	<IND>iunt</IND>		<SUB>iant</SUB>	</ACT>
+					<PAS>	<IND>iuntur</IND>	<SUB>iantur</SUB>	</PAS>
+				</PRS>
+				<IMP>
+					<ACT>	<IND>iebant</IND>	<SUB>irent</SUB>	</ACT>
+					<PAS>	<IND>iebantur</IND>	<SUB>irentur</SUB>	</PAS>
+				</IMP>
+				<FUT>
+					<ACT>	<IND>ient</IND>		<IMP>iunto</IMP>	</ACT>
+					<PAS>	<IND>ientur</IND>	<IMP>iuntor</IMP>	</PAS>
+				</FUT>
+				<PRF>
+					<ACT>	<IND>erunt</IND><SUB>erint</SUB>	</ACT>
+				</PRF>
+				<PPF>
+					<ACT>	<IND>erant</IND><SUB>issent</SUB> </ACT>
+				</PPF>
+				<FPF>
+					<ACT>	<IND>erint</IND>	</ACT>
+				</FPF>
+			</P>
+		</THR>
+	</pattern4>
+</V>
+<N>
+	<pattern1>
+		<S>	<N>a</N> 	<G>ae</G> 	<D>ae</D> 	<A>am</A> 	<B>a</B> 	<V>a</V> 	</S>
+		<P> <N>ae</N> 	<G>arum</G> <D>is</D> 	<A>as</A> 	<B>is</B> 	<V>ae</V> 	</P>
+	</pattern1>
+	<pattern2>
+		<S>	<N>us</N> 	<G>i</G> 	<D>o</D> 	<A>um</A> 	<B>o</B> 	<V>e</V> 	</S>
+		<P> <N>i</N> 	<G>orum</G> <D>is</D> 	<A>os</A> 	<B>is</B> 	<V>i</V> 	</P>
+	</pattern2>
+	<pattern2r> <!--AGER-ending-->
+		<S>	<N>er</N> 	<G>ri</G> 	<D>ro</D> 	<A>rum</A> 	<B>ro</B> 	<V>er</V> 	</S>
+		<P> <N>ri</N> 	<G>rorum</G><D>ris</D> 	<A>ros</A> 	<B>ris</B> 	<V>ri</V> 	</P>
+	</pattern2r>
+	<pattern2er> <!--PUER-ending-->
+		<S>	<N>er</N> 	<G>eri</G> 		<D>ero</D> 	<A>erum</A> <B>ero</B> 	<V>er</V> 	</S>
+		<P> <N>eri</N> 	<G>erorum</G>	<D>eris</D> <A>eros</A> <B>eris</B> <V>eri</V> 	</P>
+	</pattern2er>
+	<pattern2n> <!--Neuter-->
+		<S>	<N>um</N> 	<G>i</G> 	<D>o</D> 	<A>um</A> 	<B>o</B> 	<V>um</V> 	</S>
+		<P> <N>a</N> 	<G>orum</G> <D>is</D> 	<A>a</A> 	<B>is</B> 	<V>a</V> 	</P>
+	</pattern2n>
+	<pattern3>
+		<S>	<N>#L#</N>	<G>is</G> 	<D>i</D> 	<A>em</A> 	<B>e</B> 	<V>#L#</V> 	</S>
+		<P> <N>es</N> 	<G>um</G> 	<D>ibus</D> <A>es</A> 	<B>ibus</B> <V>es</V> 	</P>
+	</pattern3>
+	<pattern3n> <!--Neuter-->
+		<S>	<N>#L#</N>	<G>is</G> 	<D>i</D> 	<A>#L#</A> 	<B>e</B> 	<V>#L#</V> 	</S>
+		<P> <N>a</N> 	<G>um</G> 	<D>ibus</D> <A>a</A> 	<B>ibus</B> <V>a</V> 	</P>
+	</pattern3n>
+	<pattern3ium> <!--Gen.Pl.=ium-->
+		<S>	<N>#L#</N>	<G>is</G> 	<D>i</D> 	<A>#L#</A> 	<B>e</B> 	<V>#L#</V> 	</S>
+		<P> <N>a</N> 	<G>ium</G> 	<D>ibus</D> <A>a</A> 	<B>ibus</B> <V>a</V> 	</P>
+	</pattern3ium>
+	<pattern4>
+		<S>	<N>us</N> 	<G>us</G> 	<D>ui</D> 	<A>um</A> 	<B>u</B> 	<V>us</V> 	</S>
+		<P> <N>us</N> 	<G>uum</G> 	<D>ibus</D> <A>us</A> 	<B>ibus</B> <V>us</V> 	</P>
+	</pattern4>
+	<pattern4n> <!--Neuter-->
+		<S>	<N>u</N> 	<G>us</G> 	<D>u</D> 	<A>u</A> 	<B>u</B> 	<V>u</V> 	</S>
+		<P> <N>ua</N> 	<G>uum</G> 	<D>ibus</D> <A>ua</A> 	<B>ibus</B> <V>ua</V> 	</P>
+	</pattern4n>
+	<pattern5>
+		<S>	<N>es</N> 	<G>ei</G> 	<D>ei</D> 	<A>em</A> 	<B>e</B> 	<V>es</V> 	</S>
+		<P> <N>es</N> 	<G>erum</G> <D>ebus</D> <A>es</A> 	<B>ebus</B> <V>es</V> 	</P>
+	</pattern5>
+</N>
+<A>
+	<pattern1>
+		<M>
+			<S>	<N>us</N> 	<G>i</G> 	<D>o</D> 	<A>um</A> 	<B>o</B> 	<V>e</V> 	</S>
+			<P> <N>i</N> 	<G>orum</G> <D>is</D> 	<A>os</A> 	<B>is</B> 	<V>i</V> 	</P>
+		</M>
+		<F>
+			<S>	<N>a</N> 	<G>ae</G> 	<D>ae</D> 	<A>am</A> 	<B>a</B> 	<V>a</V> 	</S>
+			<P> <N>ae</N> 	<G>arum</G> <D>is</D> 	<A>as</A> 	<B>is</B> 	<V>ae</V> 	</P>
+		</F>
+		<N>
+			<S>	<N>um</N> 	<G>i</G> 	<D>o</D> 	<A>um</A> 	<B>o</B> 	<V>um</V> 	</S>
+			<P> <N>a</N> 	<G>orum</G> <D>is</D> 	<A>a</A> 	<B>is</B> 	<V>a</V> 	</P>
+		</N>
+	</pattern1>
+	<pattern2r> <!-- With an "r" -->
+		<M>
+			<S>	<N>er</N> 	<G>ri</G> 	<D>ro</D> 	<A>rum</A> 	<B>ro</B> 	<V>er</V> 	</S>
+			<P> <N>ri</N> 	<G>rorum</G><D>ris</D> 	<A>ros</A> 	<B>ris</B> 	<V>ri</V> 	</P>
+		</M>
+		<F>
+			<S>	<N>ra</N> 	<G>rae</G>	<D>rae</D> 	<A>ram</A> 	<B>ra</B> 	<V>ra</V> 	</S>
+			<P> <N>rae</N> 	<G>rarum</G><D>is</D> 	<A>ras</A> 	<B>ris</B> 	<V>rae</V> 	</P>
+		</F>
+		<N>
+			<S>	<N>rum</N> 	<G>ri</G>	<D>ro</D> 	<A>rum</A> 	<B>ro</B> 	<V>rum</V> 	</S>
+			<P> <N>ra</N> 	<G>rorum</G><D>ris</D> 	<A>ra</A> 	<B>ris</B> 	<V>ra</V> 	</P>
+		</N>
+	</pattern2r>
+	<pattern3>
+		<M>
+			<S>	<N>is</N>	<G>is</G> 	<D>i</D> 	<A>em</A> 	<B>i</B> 	<V>is</V> 	</S>
+			<P> <N>es</N> 	<G>ium</G> 	<D>ibus</D> <A>es</A> 	<B>ibus</B> <V>es</V> 	</P>
+		</M>
+		<F>
+			<S>	<N>is</N>	<G>is</G> 	<D>i</D> 	<A>em</A> 	<B>i</B> 	<V>is</V> 	</S>
+			<P> <N>es</N> 	<G>ium</G> 	<D>ibus</D> <A>es</A> 	<B>ibus</B> <V>es</V> 	</P>
+		</F>
+		<N>
+			<S>	<N>e</N>	<G>is</G> 	<D>i</D> 	<A>e</A> 	<B>i</B> 	<V>e</V> 	</S>
+			<P> <N>ia</N> 	<G>ium</G> 	<D>ibus</D> <A>ia</A> 	<B>ibus</B> <V>ia</V> 	</P>
+		</N>
+	</pattern3>
+	<pattern3r> <!-- With an "r" -->
+		<M>
+			<S>	<N>er</N>	<G>ris</G>	<D>ri</D>	<A>rem</A> 	<B>ri</B>	<V>er</V> 	</S>
+			<P> <N>res</N> 	<G>rium</G>	<D>ribus</D><A>es</A> 	<B>ribus</B><V>res</V> 	</P>
+		</M>
+		<F>
+			<S>	<N>ris</N>	<G>ris</G>	<D>ri</D>	<A>rem</A> 	<B>ri</B>	<V>ris</V> 	</S>
+			<P> <N>res</N> 	<G>rium</G>	<D>ribus</D><A>es</A> 	<B>ribus</B><V>res</V> 	</P>
+		</F>
+		<N>
+			<S>	<N>re</N>	<G>ris</G> 	<D>ri</D> 	<A>re</A> 	<B>ri</B> 	<V>re</V> 	</S>
+			<P> <N>ria</N> 	<G>rium</G> <D>ribus</D><A>ria</A> 	<B>ribus</B><V>ria</V> 	</P>
+		</N>
+	</pattern3r>
+	<pattern3t> <!-- With a title -->
+		<M>
+			<S>	<N>#L#</N>	<G>is</G> 	<D>i</D> 	<A>em</A> 	<B>i</B> 	<V>#L#</V> 	</S>
+			<P> <N>es</N> 	<G>ium</G> 	<D>ibus</D> <A>es</A> 	<B>ibus</B> <V>es</V> 	</P>
+		</M>
+		<F>
+			<S>	<N>#L#</N>	<G>is</G> 	<D>i</D> 	<A>em</A> 	<B>i</B> 	<V>#L#</V> 	</S>
+			<P> <N>es</N> 	<G>ium</G> 	<D>ibus</D> <A>es</A> 	<B>ibus</B> <V>es</V> 	</P>
+		</F>
+		<N>
+			<S>	<N>#L#</N>	<G>is</G> 	<D>i</D> 	<A>#L#</A> 	<B>i</B> 	<V>#L#</V> 	</S>
+			<P> <N>ia</N> 	<G>ium</G> 	<D>ibus</D> <A>ia</A> 	<B>ibus</B> <V>ia</V> 	</P>
+		</N>
+	</pattern3t>
+</A>
+<R>
+	<pattern>
+		<M>
+			<S>	<N>qui</N> 	<G>cuius</G> 	<D>cui</D> 		<A>quem</A> <B>quo</B> 		</S>
+			<P> <N>qui</N> 	<G>quorum</G> 	<D>quibus</D> 	<A>quos</A> <B>quibus</B> 	</P>
+		</M>
+		<F>
+			<S>	<N>quae</N> <G>cuius</G> 	<D>cui</D> 		<A>quam</A> <B>qua</B> 		</S>
+			<P> <N>quae</N> <G>quarum</G> 	<D>quibus</D> 	<A>quas</A> <B>quibus</B> 	</P>
+		</F>
+		<N>
+			<S>	<N>quod</N> <G>cuius</G> 	<D>cui</D> 		<A>quod</A> <B>quo</B> 		</S>
+			<P> <N>quae</N> <G>quorum</G> 	<D>quibus</D> 	<A>quae</A> <B>quibus</B> 	</P>
+		</N>
+	</pattern>
+</R>
+</data>

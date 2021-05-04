@@ -1,0 +1,33 @@
+Sentence @ parent.entry.pos == "ROOT"|M|dependent.pos == "V"|"IND"|[None,None,None,None,["IND","SUB","IMP"],None,"N"]|1
+# Mandadory elements:
++Subject @ parent.entry.pos == "V" and "NREL" not in parent.tags and "UT" not in parent.tags and parent.params[0] == "THR" and (parent.params[4] in ["IND","SUB"] or "INS" in parent.tags) and ((parent.params[3] == "ACT" and "IMP" not in parent.entry.tags) or (parent.params[3] == "PAS" and "INT" not in parent.entry.tags))|M|dependent.pos == "N" and dependent.gender == parent.params[5]|""|[parent.params[1],parent.params[6]]|-2
++Direct Object @ parent.entry.pos == "V" and ("AREL" not in parent.tags) and "INT" not in parent.entry.tags and parent.params[3] == "ACT"|M|dependent.pos == "N"|""|[None,"A"]|-1
++Indicative Nominative Relative Clause @ parent.entry.pos == "R" and "INS" not in parent.tags and parent.params[2] == "N"|0.7|dependent.pos == "V" and "IMP" not in dependent.tags|"NREL"|["THR",parent.params[1],None,"ACT","IND",parent.params[0],"N"]|1 @ parent.entry.pos == "R" and "INS" not in parent.tags and parent.params[2] == "N"|M|dependent.pos == "V" and "INT" not in dependent.tags|"NREL"|["THR",parent.params[1],None,"PAS","IND",parent.params[0],"N"]|1 
++Subjunctive Accusative Relative Clause @ parent.entry.pos == "R" and "INS" in parent.tags and parent.params[2] == "A"|M|dependent.pos == "V" and "INT" not in dependent.tags|"AREL"|["THR",parent.params[1],None,"ACT","SUB",None,"N"]|1 
++Subjunctive Nominative Relative Clause @ parent.entry.pos == "R" and "INS" in parent.tags and parent.params[2] == "N"|0.7|dependent.pos == "V" and "IMP" not in dependent.tags|"NREL"|["THR",parent.params[1],None,"ACT","SUB",parent.params[0],"N"]|1 @ parent.entry.pos == "R" and "INS" in parent.tags and parent.params[2] == "N"|M|dependent.pos == "V" and "INT" not in dependent.tags|"NREL"|["THR",parent.params[1],None,"PAS","SUB",parent.params[0],"N"]|1
++Indicative Accusative Relative Clause @ parent.entry.pos == "R" and "INS" not in parent.tags and parent.params[2] == "A"|M|dependent.pos == "V" and "INT" not in dependent.tags|"AREL"|["THR",parent.params[1],None,"ACT","IND",None,"N"]|1 
++Indirect Statement @ parent.entry.pos == "V" and "ISC" in parent.entry.tags|M|dependent.pos == "V"|"INS"|["THR",None,None,None,"INF",None,"A"]|1
++Prepositional Object @ parent.entry.pos == "P"|M|dependent.pos == "N"|""|[None,parent.entry.tags[0]]|1
++Infinitive Clause @ parent.entry.pos == "V" and "INF" in parent.entry.tags|0.6|dependent.pos == "V" and "IMP" not in dependent.tags|""|["THR",None,None,"ACT","INF",None,"N"]|1 @ parent.entry.pos == "V" and "INF" in parent.entry.tags|M|dependent.pos == "V" and "INT" not in dependent.tags|""|["THR",None,None,"PAS","INF",None,"A"]|1
++First Sequence Ut Clause @ parent.entry.pos == "C" and parent.entry.stem == "ut" and "NP" in parent.tags|0.6|dependent.pos == "V" and "IMP" not in dependent.tags|"UT"|[parent.params[1],parent.params[2],["PRS","PRF"],"ACT","SUB",parent.params[0],"N"]|1 @ parent.entry.pos == "C" and parent.entry.stem == "ut" and "NP" in parent.tags|M|dependent.pos == "V" and "INT" not in dependent.tags|"UT"|[parent.params[1],parent.params[2],["PRS","PRF"],"PAS","SUB",parent.params[0],"N"]|1
++Second Sequence Ut Clause @ parent.entry.pos == "C" and parent.entry.stem == "ut" and "P" in parent.tags|0.6|dependent.pos == "V" and "IMP" not in dependent.tags|"UT"|[parent.params[1],parent.params[2],["IMP","PPF"],"ACT","SUB",parent.params[0],"N"]|1 @ parent.entry.pos == "C" and parent.entry.stem == "ut" and "P" in parent.tags|M|dependent.pos == "V" and "INT" not in dependent.tags|"UT"|[parent.params[1],parent.params[2],["IMP","PPF"],"PAS","SUB",parent.params[0],"N"]|1
+#
+Copula Complement @ parent.entry.pos == "V" and ("IND" in parent.tags or "NREL" in parent.tags) and "COP" in parent.entry.tags|0.4|dependent.pos == "N"|""|[None,parent.params[6]]|-1 @ parent.entry.pos == "V" and ("IND" in parent.tags or "AREL" in parent.tags) and "COP" in parent.entry.tags|0.8|dependent.pos == "A"|""|[parent.params[5],parent.params[1],"N"]|-1 
+Dative Phrase @ parent.entry.pos == "V" and "DAT" in parent.entry.tags|0.8|dependent.pos == "N"|""|[None,"D"]|-1
+Vocative Addressee @ parent.entry.pos == "V" and parent.params[4] == "IMP" and parent.params[0] == "SEC"|0.6|dependent.pos == "N"|""|[None,"V"]|-3.C
+Relative Pronoun @ parent.entry.pos == "N" and parent.params[1] != "V"|0.1|dependent.pos == "R"|"REL"+(",INS" if "INS" in parent.tags else "")|[parent.entry.gender,parent.params[0],["N","A"]]|1.C
+Adjective Modifier @ parent.entry.pos == "N"|0.5|dependent.pos == "A"|""|[parent.entry.gender,parent.params[0],parent.params[1]]|1
+Adverb Modifier @ parent.entry.pos == "V"|0.2|dependent.pos == "D"|""|[]|1
+Genetive Modifier @ parent.entry.pos == "N"|0.1|dependent.pos == "N"|""|[None,"G"]|2
+Ablative Of Agent @ parent.entry.pos == "V" and parent.params[3] == "PAS" and parent.params[4] in ["IND","SUB","INF"]|0.9|dependent.pos == "P" and dependent.stem == "a(b)"|""|[]|1
+Adverbial Ablative @ parent.entry.pos == "V"|0.1|dependent.pos == "N"|""|[None,"B"]|1
+Prepositional Adverbial Phrase @ parent.entry.pos == "V" and "COP" not in parent.entry.tags|0.1|dependent.pos == "P" and "ADV" in dependent.tags|""|[]|1
+Prepositional Adjectival Phrase @ parent.entry.pos == "N"|0.05|dependent.pos == "P" and "ADJ" in dependent.tags|""|[]|3
+Ut Clause @ parent.entry.pos == "V" and "IND" in parent.tags and parent.params[2] in ["PRS","FUT","FPF"]|0.09|dependent.stem == "ut" and dependent.pos == "C"|"NP"|[parent.params[5],parent.params[0],parent.params[1]]|4
++Ut Clause @ parent.entry.pos == "V" and "IND" in parent.tags and parent.params[2] in ["IMP","PRF","PPF"]|0.09|dependent.stem == "ut" and dependent.pos == "C"|"P"|[parent.params[5],parent.params[0],parent.params[1]]|4
+#
+#
+#
+#
+#Purpose Clause 1 @ parent.entry.pos == "V" and "COP" not in parent.entry.tags|0.9|dependent.stem == "ut"|parent.params[2]|[]|1
+#Purpose Clause 2 @ parent.entry.pos == "C" and parent.entry.stem == "ut"|M|dependent.pos == "V"||["THR",None,sequence[parent.tags[0]],"ACT","SUB",None,None]|1

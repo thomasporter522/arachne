@@ -1,0 +1,6 @@
+Arachne generates Latin sentences according to your selected vocabulary terms, grammar constructs, 
+and verb endings. Select the items you want to appear in the sentences, choose a number of sentences to generate and a 
+length limiation, and click "Go." 
+- Your selections will be overridden if a grammar item or vocabulary word demands something you have not selected. If no verb 
+endings you have selected are compatible with the grammar in a certain instance, an appropriate ending will be selected randomly.
+- The length limitation imposes a rough limit on how elaborate the sentence can be.
