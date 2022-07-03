@@ -8,6 +8,5 @@ levels of skill, a constrained Latin sentence generator is developed. A dependen
 sentence is modelled as a totally ordered rooted tree with words as vertices and dependency relationships as
 edges. The set of allowed words is the constrained vocabulary, and the set of allowed dependency relationships
 is the constrained grammar. The inflection of words is constrained by the grammar and the user, and is otherwise
-random. A fully customizable, grammatical Latin sentence generator is achieved, with the ability to expand
+random. Arachne is a fully customizable, grammatical Latin sentence generator, with the ability to expand
 vocabulary and grammar for classroom use.
-
