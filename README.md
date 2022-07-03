@@ -1,6 +1,6 @@
-#Arachne 
+# Arachne 
 
-###The constrained Latin sentence generator.
+### The constrained Latin sentence generator.
 
 Beginning students of Latin practice their language skills by translating Latin sentences into English. As an
 alternative to the labor intensive process of manually creating sentences, while still accounting for the students’
