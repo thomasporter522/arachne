@@ -5,7 +5,7 @@
 # Nouns
 #
 Corneli, 	N, 	F, 	1,	,	Cornelia
-puell, 		N, 	F, 	1,	,	Cornelia
+puell, 		N, 	F, 	1,	,	girl
 port, 		N, 	F, 	1,	,	gate
 sax, 		N, 	N,	2n,	,	rock
 bacul, 		N, 	N, 	2n,	,	stick
